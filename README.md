@@ -1,6 +1,6 @@
 # DynamicApp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-sass-bootstrap-custom)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dynamic_content_projection)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
